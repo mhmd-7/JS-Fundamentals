@@ -1,1 +1,2 @@
 
+javascript is amazing
